@@ -1,0 +1,26 @@
+{
+  "0": {
+    "archetype": "Combat",
+    "centroid": {
+      "pct_combat": 0.7479236120525513,
+      "pct_collect": 0.13282826615282228,
+      "pct_explore": 0.11924812179462643
+    }
+  },
+  "1": {
+    "archetype": "Collection",
+    "centroid": {
+      "pct_combat": 0.05586893015761374,
+      "pct_collect": 0.6123287067778531,
+      "pct_explore": 0.3318023630645331
+    }
+  },
+  "2": {
+    "archetype": "Exploration",
+    "centroid": {
+      "pct_combat": 0.014708323445992821,
+      "pct_collect": 0.06395564562306774,
+      "pct_explore": 0.9213360309309396
+    }
+  }
+}
